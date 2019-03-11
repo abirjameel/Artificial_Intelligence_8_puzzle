@@ -8,13 +8,13 @@ A.I - Implemented BFS, DFS, A* Algorithms to solve the 8-puzzle problem. The pyt
  
 ## How to use   
 
-`python driver_3.py ast 0,8,7,6,5,4,3,2,1`   
+`python driver_3.py ast 0,8,7,6,5,4,3,2,1`      
  
-## Output File Format
+## Output File Format   
 
-`path_to_goal: ['Right', 'Down', 'Down']`
-`cost_of_path: 3   `
-`nodes_expanded: 12   `
-`search_depth: 3   `
-`running_time: 0.6345   `
-`max_ram_usage: 19`   
+`path_to_goal: ['Right', 'Down', 'Down']`      
+`cost_of_path: 3   `    
+`nodes_expanded: 12   `    
+`search_depth: 3   `   
+`running_time: 0.6345   `     
+`max_ram_usage: 19`        
